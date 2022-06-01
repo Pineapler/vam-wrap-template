@@ -15,7 +15,7 @@
             "nodeType": "LoadGeom",
             "params": {
                 "fileName": {
-                    "value": "$PROJECT_DIR/in-models/g2-model.obj"
+                    "value": "$PROJECT_DIR/in-models/G2/g2-model.obj"
                 },
                 "rotation": {
                     "value": {
@@ -245,10 +245,10 @@
             "nodeType": "SelectPointPairs",
             "params": {
                 "fileNameLeft": {
-                    "value": "$PROJECT_DIR/points/g2-points-triangle-symmetric.txt"
+                    "value": "E:/Large projects/_VAM Conversions/_WrapTemplate/points/g2-points-3d-symmetric-elbow-fix.txt"
                 },
                 "fileNameRight": {
-                    "value": "E:/Large projects/temp/_WrapTemplate/g2-points-triangle-symmetric"
+                    "value": "E:/Large projects/_VAM Conversions/_WrapTemplate/points/g2-points-3d-symmetric-elbow-fix.txt"
                 },
                 "geomLeft": {
                     "connectedNodeId": 3
@@ -257,10 +257,10 @@
                     "connectedNodeId": 13
                 },
                 "pointsFormatLeft": {
-                    "value": 0
+                    "value": 1
                 },
                 "pointsFormatRight": {
-                    "value": 0
+                    "value": 1
                 },
                 "pointsLeft": {
                     "value": [  ]
@@ -272,7 +272,7 @@
                     "value": 1
                 },
                 "sourceRight": {
-                    "value": 0
+                    "value": 1
                 },
                 "symmetryLeft": {
                     "value": 2
@@ -631,7 +631,7 @@
             "nodeType": "LoadGeom",
             "params": {
                 "fileName": {
-                    "value": "$PROJECT_DIR/in-models/g2-model.obj"
+                    "value": "$PROJECT_DIR/in-models/G2/g2-model.obj"
                 },
                 "rotation": {
                     "value": {
